@@ -1,0 +1,106 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #F5F5F5;
+  color: #333;
+  margin: 10px;
+  padding: 20px;
+}
+
+h1 {
+  color: #283747 ;
+  margin-bottom: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  color: #283747;
+  font-size: 18px;
+}
+
+input[type="text"],
+textarea {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  background-color: #fff;
+  color: #333;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  background-color: #283747;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  font-size: 18px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-block;
+  transition: background-color 0.1s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: rgba(40, 55, 71,0.2);
+}
+
+div {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  color: #283747;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #666;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+.theme-toggle {
+  margin-bottom: 20px;
+}
+
+.theme-toggle a {
+  color: #283747;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.theme-toggle a:hover {
+  background-color: rgba(150, 150, 150, 0.2);
+}
+
+
+a.back-to-account {
+  background-color: #283747;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  font-size: 18px;
+  border-radius: 6px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.1s ease;
+}
+
+a.back-to-account:hover {
+  background-color: rgba(40, 55, 71,0.2);
+}

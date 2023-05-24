@@ -1,0 +1,59 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #f5f5f5;
+}
+
+input[type="file"]{
+  display: none;
+}
+
+label{
+  color: white;
+  height: 60px;
+  width: 230px;
+  background-color: #93959e;
+  position:absolute;
+  margin: auto;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Montserrat, sans-serif";
+  cursor: pointer;
+}
+
+.upload-button{
+  position: relative;
+  left: 250px;
+}
+
+.btn{
+  color: white;
+  height: 60px;
+  width: 60px;
+  background-color: #93959e;
+  position:absolute;
+  margin: auto;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Montserrat, sans-serif";
+  border: 0;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.intro_login{
+  min-height: 80vh;
+  background:linear-gradient(to right bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/intro_login.jpg) no-repeat center;
+  background-size: cover;
+  padding-top: 263px;
+  padding-bottom: 223px;
+}

@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Lato", sans-serif;
+  background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../img/regbackground.jpg);
+}
+
+a {
+  color: #295986;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+p {
+  margin: 10px 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+input {
+  margin: 10px 0;
+  padding: 10px;
+  border: unset;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.7);
+  outline: none;
+  background: transparent;
+  color: white;
+}
+
+button {
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.6);
+  border: unset;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.msg {
+  border: 2px solid #fcfcfc;
+  border-radius: 3px;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.logout {
+  color: #b7625c;
+}
+
+.regform{
+    background-color: rgba(144, 162, 177, 0.7) ;
+    margin: 30px 100px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 30px;
+}
+
+.btn--reg {
+  color: rgb(255, 255, 255); 
+}
+
+.btn, .btn:link, .btn:visited {
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 15px;
+  position: relative;
+  font-size: 15px;
+  border: none;
+}
+
+.header__logo-link{
+  padding: 15px;
+}
