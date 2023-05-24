@@ -67,6 +67,7 @@ button {
     text-align: center;
     font-size: 15px;
     border-radius: 30px;
+    font-family: 'Lato';
 }
 
 .btn--reg {
