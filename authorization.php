@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>registration</title>
+    <title>Login</title>
     <link rel="stylesheet" href="/css/regstyle.css">
     <link rel="shortcut icon" type="image/png" href="img/favicon.png">
 </head>
