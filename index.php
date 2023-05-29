@@ -172,7 +172,7 @@
                         <p class="top__card-desc">
                             The application will help you calculate your expenses and make a schedule, with this function you can eliminate unnecessary budget spending
                         </p>
-                        <a href="#head" class="top__card-more">SEE MORE</a>
+                        <a href="../authorization.php" class="top__card-more">SEE MORE</a>
                     </div>
                     <div class="top__card">
                         <div class="top__card-pic">
@@ -196,7 +196,7 @@
                         <p class="top__card-desc">
                           Connect your mail and track letters, sort everything into folders for your comfort. This feature will allow you not to waste time on spam and not "dummy" letters
                         </p>
-                        <a href="#head" class="top__card-more">SEE MORE</a>
+                        <a href="../authorization.php" class="top__card-more">SEE MORE</a>
                     </div>
                     <div class="top__card">
                         <div class="top__card-pic">
@@ -220,7 +220,7 @@
                         <p class="top__card-desc">
                           Fill out your documents so that you never lose them, with the mobile application it's as easy as shelling pears
                         </p>
-                        <a href="#head" class="top__card-more">SEE MORE</a>
+                        <a href="../authorization.php" class="top__card-more">SEE MORE</a>
                     </div>
                     <div class="top__card">
                         <div class="top__card-pic">
@@ -244,7 +244,7 @@
                         <p class="top__card-desc">
                           Accurate weather forecast for your region. Do not leave the application, the weather widget will help you make your plans based on weather conditions
                         </p>
-                        <a href="#head" class="top__card-more">SEE MORE</a>
+                        <a href="../authorization.php" class="top__card-more">SEE MORE</a>
                     </div>
                     <div class="top__card">
                         <div class="top__card-pic">
@@ -268,7 +268,7 @@
                         <p class="top__card-desc">
                           Manager uses advanced password protection! A nice addition, with this all your data is completely safe. Forget about such a danger when entering an unknown site.
                         </p>
-                        <a href="#head" class="top__card-more">SEE MORE</a>
+                        <a href="../authorization.php" class="top__card-more">SEE MORE</a>
                     </div>
                     <div class="top__card">
                         <div class="top__card-pic">
@@ -292,7 +292,7 @@
                         <p class="top__card-desc">
                           The most important thing is closeness. Download the mobile application and increase the comfort level of your life. With us, you will never forget about important matters, do not miss a single letter and will not get into an unpleasant situation if you schedule a meeting, as we take care of you.
                         </p>
-                        <a href="#head" class="top__card-more">SEE MORE</a>
+                        <a href="../authorization.php" class="top__card-more">SEE MORE</a>
                     </div>
                 </div>
             </div>
