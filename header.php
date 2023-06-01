@@ -5,7 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Odigo Organizer</title>
     <link rel="stylesheet" href="./css/style.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> 
 </head>
+
+    <script type="text/javascript"> 
+        $(document).ready(function(){ 
+
+        $(window).scroll(function(){ 
+        if ($(this).scrollTop() > 500) { 
+        $('.scrollup').fadeIn(); 
+        } else { 
+        $('.scrollup').fadeOut(); 
+        } 
+        }); 
+
+        $('.scrollup').click(function(){ 
+        $("html, body").animate({ scrollTop: 0 }, 1000); 
+        return false; 
+        }); 
+
+        }); 
+    </script>
 
 <body>
     <header class="header">
