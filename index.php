@@ -3,7 +3,7 @@
         <section class="intro" id="head">
             <div class="wrapper">
                 <h1 class="intro__title">
-                    Web organizer Odigo | Make your life easier.
+                    Make your life easier.
                 </h1>
                 <p class="intro__subtitle">
                   We will help you plan your affairs, calculate the free budget for entertainment. We will remind you of important matters and set notifications for important dates. It's comfortable with us! 
@@ -297,8 +297,8 @@
                 </div>
             </div>
         </section>
-
+        <a href="#" class="scrollup"><img id="rocket" src="/img/uparrow.png" alt=""></a>
     <?php require'footer.php' ?>
-
+    </main>
 </body>
 </html>
